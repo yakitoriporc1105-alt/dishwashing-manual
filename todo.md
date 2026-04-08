@@ -1,0 +1,7 @@
+- [ ] Remove dishwashing manual content and pages.
+- [ ] Make toilet cleaning the main page (Home).
+- [ ] Update routing to reflect the new structure.
+- [ ] Verify local build.
+- [ ] Deploy to GitHub Pages and ensure it works.
+- [ ] Fix image display issue in ToiletCleaning.tsx
+- [ ] Import image directly in ToiletCleaning.tsx to fix display issue
